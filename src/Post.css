@@ -1,0 +1,47 @@
+.thumb{
+  height: 550px;
+  width: 700px;
+}
+
+.selfText{
+  overflow: scroll;
+  height: 550px;
+  width: 700px;
+  padding: 0 20px;
+  line-height: 34px;
+}
+
+.row{
+  width: 700px;
+}
+
+.container{
+  max-width: 700px;
+}
+
+.post{
+  margin-bottom: 40px;
+  text-align: center;
+  box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.4);
+}
+
+.upper{
+  font-family: 'Arvo', serif;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.lower{
+  font-family: "Helvetica", serif;
+  font-size: 12px;
+}
+
+.favHeartEmpty{
+  color: red;
+  margin-left: 5px;
+}
+
+.favHeartFull{
+  color: red;
+  margin-left: 5px;
+}
